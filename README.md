@@ -1,7 +1,7 @@
 # docker-npm-newww
 Containerized npmjs.org for local deployment
 
-[Containerized npmjs.org](https://github.com/alexindigo/newww) for local deployment,
+Containerized [npmjs.org](https://github.com/npm/newww) for local deployment,
 using redis, elasticsearch, node `0.10.37` and couchdb `1.6.0`.
 
 Requires:
