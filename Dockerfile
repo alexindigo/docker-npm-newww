@@ -2,7 +2,7 @@
 FROM alexindigo/node-app
 MAINTAINER Alex Indigo <iam@alexindigo.com>
 
-ENV       NEWWW_VERSION v2.1.0-trulia-1
+ENV       NEWWW_VERSION v2.1.0-trulia-2
 
 # Escape volume
 RUN       mkdir -p /var/www
